@@ -1,2 +1,6 @@
-"","O-shape","V-shape","T-shape","city","street","date"
-"1",4,5,11,"Ljubljana","Cankarjeva cesta 4",2024-05-08
+"O-shape","V-shape","T-shape","size","city","street","date"
+4,5,11,20,"Ljubljana","Cankarjeva cesta 4",2024-05-08
+7,2,12,21,"Ljubljana","Čopova ulica 14",2024-5-15
+7,5,8,20,"Ljubljana","Trg osvobodilne fronte",2024-05-19
+0,0,6,6,"Koper","Ankaranska cesta 4",2024-06-27
+3,9,8,20,"Seiersberg","Shopping City Seiersberg 3",2024-07-04
